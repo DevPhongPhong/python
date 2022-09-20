@@ -1,8 +1,6 @@
 import math
-from tabnanny import check
 
 dem = int(input())
-
 
 def CheckPrime(x):
     if x <= 1:

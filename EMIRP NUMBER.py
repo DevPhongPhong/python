@@ -19,3 +19,13 @@ def CheckDX(x):
         if (x[i] != x[length-1-i]):
             return 1
     return 0
+
+
+dem = int(input())
+while (dem > 0):
+    dem -= 1
+    n = int(input())
+    i=2
+    while(i<n):
+        if(CheckPrime(i))
+        i+=1
